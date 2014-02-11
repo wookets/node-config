@@ -20,7 +20,7 @@ config.get('SOME:URL'); // same as nconf
 
 config.vet('SOME:URL'); // ADDED in 0.1.2, will throw an Error if value of key is undefined, else return value
 
-
+config.git('SOME:URL', 'http://www.google.com'); // ADDED in 0.1.3, will get and init the value if needed
 ```
 
 ## config.json
