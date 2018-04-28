@@ -1,6 +1,8 @@
 
 # Why?
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/wookets/node-config.svg)](https://greenkeeper.io/)
+
 This is a simple config loader for node applications built atop nconf. It uses nconf
 to look for variables from the CLI (argv), ENV (process.env), and a config.json file in the root of the application.
 
