@@ -11,7 +11,7 @@
     "node": ">= 0.10.x"
   },
   "dependencies": {
-    "nconf": "~0.6.9"
+    "nconf": "~0.10.0"
   },
   "devDependencies": {
   }
